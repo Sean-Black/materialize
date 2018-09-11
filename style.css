@@ -1,0 +1,31 @@
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
+body {
+  background: #b0bec5 blue-grey lighten-3 !important;
+}
+.parallax-container {
+  height: 200px;
+  width: 100%;
+}
+@media (max-width: 568px) {
+  .pic1,
+  .pic2,
+  .pic3 {
+    background-attachment: parallax;
+  }
+}
+
+.color {
+  background: black;
+}
+#contact {
+  background: antiquewhite;
+}
+nav ul li:hover {
+  background-color: indigo;
+}
+.sidenav,
+ul li:hover {
+  background-color: indigo;
+}
